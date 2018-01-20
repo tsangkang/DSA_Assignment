@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DSA_Assignment", "DSA_Assignment\DSA_Assignment.vcxproj", "{5EEC6126-3E97-4950-AA6B-0D0871A05B65}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E42D625B-A1C0-4802-8198-5F7E91C724F1}"
+	ProjectSection(SolutionItems) = preProject
+		DSA_Assignment\BinaryNode.h = DSA_Assignment\BinaryNode.h
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EEC6126-3E97-4950-AA6B-0D0871A05B65}.Debug|x64.ActiveCfg = Debug|x64
+		{5EEC6126-3E97-4950-AA6B-0D0871A05B65}.Debug|x64.Build.0 = Debug|x64
+		{5EEC6126-3E97-4950-AA6B-0D0871A05B65}.Debug|x86.ActiveCfg = Debug|Win32
+		{5EEC6126-3E97-4950-AA6B-0D0871A05B65}.Debug|x86.Build.0 = Debug|Win32
+		{5EEC6126-3E97-4950-AA6B-0D0871A05B65}.Release|x64.ActiveCfg = Release|x64
+		{5EEC6126-3E97-4950-AA6B-0D0871A05B65}.Release|x64.Build.0 = Release|x64
+		{5EEC6126-3E97-4950-AA6B-0D0871A05B65}.Release|x86.ActiveCfg = Release|Win32
+		{5EEC6126-3E97-4950-AA6B-0D0871A05B65}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B2ED417-4962-4F05-96E9-7027CE0204DC}
+	EndGlobalSection
+EndGlobal
